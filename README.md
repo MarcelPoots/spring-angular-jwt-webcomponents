@@ -1,4 +1,4 @@
-# Spring Boot (Java 17) + Angular (JWT) Multi-module Example (Corrected)
+# Spring Boot (Java 17) + Angular (JWT) Multi-module Example 
 
 This repository is a corrected minimal multi-module Maven project:
 - `backend` — Spring Boot (Java 17) REST API with JWT authentication and a simple Task CRUD.
